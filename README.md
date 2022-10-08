@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi B0ts
 
-<!--
-**Un4G173N/Un4G173N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Un4giv3n one, .. 
 
-Here are some ideas to get you started:
+We'r3 fighting 4 Dec3nterlize wor1d, we'11 4eturn power 2 1n6ividuals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1ntrested in 13itc01n, 3thereum network, D3centerlize F1nance, D4O, NFTs and RUST Pr0gramming language. 
+
+B3c0m3 4ware 0f M4TR1X
+
+
+
+
+
+
+
