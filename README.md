@@ -2,11 +2,11 @@ Hi;
 
 I'm Un4giv3n one, .. 
 
-We'r3 fi9hting 4 Dec3nterlize wor1d, we'11 4eturn power 2 1n6ividuals
+We're fighting 4 Decenterlize world, we'll return power 2 1ndividuals
 
-1ntrested in 13itc01n, 3thereum network, D3centerlize F1nance, D4O, NFTs, RUST & S0lidity Pr0gramming . 
+Intrested in Bitcoin, Ethereum network, Decenterlize Finance, DAO, NFTs, RUST & Solidity Programming . 
 
-B3c0m3 4ware 0f Th3 M4TR1X
+Become aware of The M4TR1X.
 
 
 
