@@ -1,6 +1,6 @@
 Hi;
 
-I'm Un4giv3n one, .. 
+I'm Un4giv3n one. 
 
 We're fighting for Decenterlize world, we'll return power to individuals.
 
