@@ -15,7 +15,6 @@ A step closer: https://un4g173n.github.io/un4/
 ### ▪️ My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Un4G173N&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Un4G173N&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
