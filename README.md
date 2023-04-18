@@ -1,6 +1,3 @@
-Hi 
-
-I'm Siamak . 
 
 We're fighting for Decenterlized world, we'll return power to individuals.
 
