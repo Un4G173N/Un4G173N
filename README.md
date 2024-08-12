@@ -1,5 +1,5 @@
 
-# We're fighting for Decenterlized world, we'll return power to individuals.
+We're fighting for Decenterlized world, we'll return power to individuals.
 
 ## Interests:
 - Bitcoin
