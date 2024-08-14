@@ -6,7 +6,7 @@ We're fighting for Decenterlized world, we'll return power to individuals
 Bitcoin, Ethereum Network, Decentralized Finance (DeFi), DAO, NFTs  
 
 ## Coding:  
-Java, Solidity
+Java, Solidity, Javascript, Bashscript
 
 ---
 
