@@ -8,6 +8,7 @@ Bitcoin, Ethereum Network, Decentralized Finance (DeFi), DAO, NFTs
 ## Coding:  
 Java, Solidity, Javascript, Bashscript
 
----
+## Learning:  
+RUST, and ::*
 
 **D3C0D3 The UN973N**
