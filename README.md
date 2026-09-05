@@ -4,9 +4,6 @@
 
 <h3 align="center">Un4G173N</h3>
 
-<p align="center">
-  <sub>See Through.</sub>
-</p>
 
 <p align="center">
   Fighting for a decentralized world.<br/>
@@ -28,9 +25,6 @@
   </sub>
 </p>
 
-<p align="center">
-  <sub><i>Don't trust. Verify.</i></sub>
-</p>
 
 <p align="center">
   <b>D3C0D3 The UN973N</b>
