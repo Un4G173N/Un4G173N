@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="rotating mesh">
+  <g fill="none" stroke="#00BF87" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- outer ring: hexagon + hexagram, rotating clockwise -->
+    <g stroke-width="1.1">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 100 100" to="360 100 100" dur="48s" repeatCount="indefinite"/>
+
+      <polygon points="100,22 167.6,61 167.6,139 100,178 32.4,139 32.4,61" opacity="0.62"/>
+      <polygon points="100,22 167.6,139 32.4,139" opacity="0.38"/>
+      <polygon points="167.6,61 100,178 32.4,61" opacity="0.38"/>
+
+      <g fill="#00BF87" stroke="none">
+        <circle cx="100" cy="22"    r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+        <circle cx="167.6" cy="61"  r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="0.66s" repeatCount="indefinite"/></circle>
+        <circle cx="167.6" cy="139" r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="1.33s" repeatCount="indefinite"/></circle>
+        <circle cx="100" cy="178"   r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="2.0s" repeatCount="indefinite"/></circle>
+        <circle cx="32.4" cy="139"  r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="2.66s" repeatCount="indefinite"/></circle>
+        <circle cx="32.4" cy="61"   r="3"><animate attributeName="r" values="3;4.6;3" dur="4s" begin="3.33s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+
+    <!-- inner triangle, rotating counter-clockwise -->
+    <g stroke-width="1.1" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate"
+        from="360 100 100" to="0 100 100" dur="30s" repeatCount="indefinite"/>
+      <polygon points="100,62 132.9,119 67.1,119"/>
+    </g>
+
+    <!-- centre -->
+    <circle cx="100" cy="100" r="2.4" fill="#00BF87" stroke="none">
+      <animate attributeName="opacity" values="1;0.25;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+</svg>
